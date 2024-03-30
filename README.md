@@ -2,10 +2,10 @@
  Preprocessing data and use classification model to classify match 
 
 ## Project Overview
-Dữ liệu này cung cấp cho chúng ta thông tin về các trận đấu đã diễn ra tại giải đấu Europe năm 2008 và tỷ lệ cược trên các sàn cá độ tài trợ như Bet365 và Blue Square. Mục tiêu của dự án này là xây dựng mô hình học máy để phân loại các trận đấu thắng và thua trong giải đấu để cung cấp thông tin hợp lý cho các nhà cái , dựa trên các thuộc tính đã có sẵn trong bộ dữ liệu 
+Dữ liệu này cung cấp cho chúng ta thông tin về các trận đấu đã diễn ra tại giải đấu Europe và tỷ lệ cược trên các sàn cá độ tài trợ như Bet365 và Blue Square. Mục tiêu của dự án này là xây dựng mô hình học máy để phân loại các trận đấu thắng và thua trong giải đấu để cung cấp thông tin hợp lý cho các nhà cái , dựa trên các thuộc tính đã có sẵn trong bộ dữ liệu 
 
 ### Dataset Information
-Tập dữ liệu này chứa thông tin về các đội bóng thuộc liên đoàn bóng đá Châu Âu và các trận đấu đã thi đấu cùng với tỉ lệ cược trên các sàn cá độ được diễn ra trong giải đấu Europe năm 2008
+Tập dữ liệu này chứa thông tin về các đội bóng thuộc liên đoàn bóng đá Châu Âu và các trận đấu đã thi đấu cùng với tỉ lệ cược trên các sàn cá độ được diễn ra trong giải đấu Europe
 
 #### Data Features
 Tập dữ liệu bao gồm 18 biến, bao gồm :
